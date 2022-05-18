@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script
+        src="https://kit.fontawesome.com/1935d064dd.js"
+        crossorigin="ononymous"
+    ></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 1</title>
+</head>
+<body>
+    <div class="counter-app">
+        <div class="counter">
+            <h1>Counter App</h1>
+            <p>0</p>
+
+        </div>
+        <div class="buttons">
+            <button id="subtract">
+                <i class ="fas fa-arrow-down"></i>
+                Subtract
+            </button>
+            <button id="reset">
+                <i class ="fas fa-spinner"></i>
+                Reset
+            </button>
+            <button id="add">
+                <i class ="fas fa-arrow-up"></i>
+                Add
+            </button>
+
+        </div>
+    </div>
+<style>
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    div.counter-app{
+        background-color: rgb(58, 117, 189);
+        padding: 0.5em;
+        border-radius: 0.5em;
+        width: 300px;
+        height: 160px;
+    }
+    div.counter{
+        border-bottom: 1px solid white;
+        height: 50%;
+    }
+    div.buttons{
+        border-top: solid 1px white;
+        height: 50%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        
+    }
+    h1,p{
+        color: white;
+        font-family: sans-serif;
+        text-align-last: center;
+        
+    }
+    h1{
+        font-size: 1em;
+        margin-bottom: 1em;
+    }
+    p{
+        font-size: 2.5em;
+        
+    }
+    button{
+        width: 30%;
+        height: 40%;
+        border: none;
+    }
+    button:hover{
+        opacity: 0.8;
+        cursor: pointer;
+    }
+    button#subtract{
+        background-color: orangered ;
+    }
+    button#reset{
+        background-color: white ;
+    }
+    button#add{
+        background-color: green;
+    }
+    
+</style>
+<script>
+(function(){
+    
+    let count = 0
+    const n = document.getElementsByTagName("p")[0]
+    
+    const Subtract = () =>{
+       count-=1
+       n.innerHTML = count
+       SetColor()
+    }
+    const Reset = () =>{
+        count=0
+        n.innerHTML = count
+        SetColor()
+    }
+    const Add = () =>{
+        count+=1
+        n.innerHTML = count
+        SetColor()
+    }
+    const SetColor = () =>{
+        if (count<0){
+            n.style.color = "red"
+
+        }else if (count>0){
+            n.style.color = "yellow"
+        }else{
+            n.style.color = "white"
+        }
+    }
+    
+
+    document.getElementById("reset").addEventListener("click", Reset)
+    document.getElementById("subtract").addEventListener("click", Subtract)
+    document.getElementById("add").addEventListener("click", Add)
+
+
+
+})()
+</script>   
+</body>
+
+</html>
