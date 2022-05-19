@@ -3,182 +3,182 @@
 
 ## Here is a list of projects we build in the course
 
-### Day 1. Counter App
+#### Day 1. Counter App
 
-### Day 2. Random Hex Color Generator
+#### Day 2. Random Number Generator
 
-### Random Number Generator
+#### Day 3. Random Hex Color Generator
 
-### Modal/Popup
+#### Day 4. Modal/Popup
 
-### Palindrome Checker
+#### Day 5. Palindrome Checker
 
-### Vowel Counter App
+#### Day 6. Vowel Counter App
 
-### Click to Copy
+#### Day 7. Click to Copy
 
-### Google Drive Download Link Generator
+#### Day 8. Google Drive Download Link Generator
 
-### Weather App
+#### Day 9. Weather App
 
-### Input Field Character Counter
+#### Day 10. Input Field Character Counter
 
-### Lyrics Search App
+#### Day . Lyrics Search App
 
-### Internet Connection Status Detector
+#### Day . Internet Connection Status Detector
 
-### Quiz App
+#### Day . Quiz App
 
-### API Project
+#### Day . API Project
 
-### HTTP Request Project
+#### Day . HTTP Request Project
 
-### Random Quote Generator
+#### Day . Random Quote Generator
 
-### List Search Project
+#### Day . List Search Project
 
-### Date Countdown
+#### Day . Date Countdown
 
-### Time Countdown
+#### Day . Time Countdown
 
-### Tip Calculator
+#### Day . Tip Calculator
 
-### Smooth Scroll Effect
+#### Day . Smooth Scroll Effect
 
-### Sticky Nav Bar on Scroll
+#### Day . Sticky Nav Bar on Scroll
 
-### Active Menu Switcher
+#### Day . Active Menu Switcher
 
-### Scroll To Top
+#### Day . Scroll To Top
 
-### Responsive Mobile Menu - part 1 & 2
+#### Day . Responsive Mobile Menu - part 1 & 2
 
-### Responsive Mobile Menu with Submenu
+#### Day . Responsive Mobile Menu with Submenu
 
-### Page Scroll Indicator
+#### Day . Page Scroll Indicator
 
-### Newsletter Form on Scroll
+#### Day . Newsletter Form on Scroll
 
-### Page Animation With AOS Library
+#### Day . Page Animation With AOS Library
 
-### Password Generator
+#### Day . Password Generator
 
-### Local Storage
+#### Day . Local Storage
 
-### Simple ToDo App
+#### Day . Simple ToDo App
 
-### Todo App with Local Storage
+#### Day . Todo App with Local Storage
 
-### Notes App
+#### Day . Notes App
 
-### BMI Calculator
+#### Day . BMI Calculator
 
-### Calculator
+#### Day . Calculator
 
-### Digital Clock
+#### Day . Digital Clock
 
-### Weight Converter
+#### Day . Weight Converter
 
-### Temperature Converter
+#### Day . Temperature Converter
 
-### Running Game
+#### Day . Running Game
 
-### Word Count Tool
+#### Day . Word Count Tool
 
-### Accordion
+#### Day . Accordion
 
-### Async Await - Random Joke Generator
+#### Day . Async Await - Random Joke Generator
 
-### Modules, Imports and Exports
+#### Day . Modules, Imports and Exports
 
-### GitHub Profile Search App
+#### Day . GitHub Profile Search App
 
-### Wikipedia Search App
+#### Day . Wikipedia Search App
 
-### Image Slider
+#### Day . Image Slider
 
-### JavaScript Array Methods
+#### Day . JavaScript Array Methods
 
-### Data Attribute and JS
+#### Day . Data Attribute and JS
 
-### Product Filter
+#### Day . Product Filter
 
-### Product Carousel Slider
+#### Day . Product Carousel Slider
 
-### Vertical Tabs
+#### Day . Vertical Tabs
 
-### Count Up App
+#### Day . Count Up App
 
-### Digital Piano
+#### Day . Digital Piano
 
-### Form Validation
+#### Day . Form Validation
 
-### Password Visibility Toggle
+#### Day . Password Visibility Toggle
 
-### Password Strength Indicator
+#### Day . Password Strength Indicator
 
-### Animated Login UI
+#### Day . Animated Login UI
 
-### Animated Search Bar
+#### Day . Animated Search Bar
 
-### Udemy User Avatar Menu
+#### Day . Udemy User Avatar Menu
 
-### Currency Converter
+#### Day . Currency Converter
 
-### Movie Listing App
+#### Day . Movie Listing App
 
-### Floating Action Button
+#### Day . Floating Action Button
 
-### Dark and Light Mode Toggler
+#### Day . Dark and Light Mode Toggler
 
-### Web Speech API - Speech To Text App
+#### Day . Web Speech API - Speech To Text App
 
-### Web Speech API - Speech To Text App - With Voice Command
+#### Day . Web Speech API - Speech To Text App - With Voice Command
 
-### Speech Synthesis - Text To Speech App
+#### Day . Speech Synthesis - Text To Speech App
 
-### Type Writing Effect Project
+#### Day . Type Writing Effect Project
 
-### Custom Progress Bar
+#### Day . Custom Progress Bar
 
-### Custom Alert & Toast Notification (ES6 Classes)
+#### Day . Custom Alert & Toast Notification (ES6 Classes)
 
-### Custom Alert & Toast Notification With Progress Bar
+#### Day . Custom Alert & Toast Notification With Progress Bar
 
-### Custom Confirm Dialog Box (ES6 Classes)
+#### Day . Custom Confirm Dialog Box (ES6 Classes)
 
-### Custom Range Slider
+#### Day . Custom Range Slider
 
-### Modal With Countdown Event
+#### Day . Modal With Countdown Event
 
-### Website Preloader
+#### Day . Website Preloader
 
-### Testimonial Slider
+#### Day . Testimonial Slider
 
-### Tweet Character Count
+#### Day . Tweet Character Count
 
-### Click to Tweet
+#### Day . Click to Tweet
 
-### Embed Twitter Timeline
+#### Day . Embed Twitter Timeline
 
-### Recipe App
+#### Day . Recipe App
 
-### Product Gallery With Thumbnail
+#### Day . Product Gallery With Thumbnail
 
-### Image Gallery Filter
+#### Day . Image Gallery Filter
 
-### Card Payment UI/UX
+#### Day . Card Payment UI/UX
 
-### Exact Age Calculator
+#### Day . Exact Age Calculator
 
-### Multistep Form
+#### Day . Multistep Form
 
-### Pricing Section
+#### Day . Pricing Section
 
-### Stop Watch
+#### Day . Stop Watch
 
-### Animated Vertical Timeline Project
+#### Day . Animated Vertical Timeline Project
 
-### Music Player App
+#### Day . Music Player App
 
-### Pseudo AI Project - Anita
+#### Day .  Pseudo AI Project - Anita
