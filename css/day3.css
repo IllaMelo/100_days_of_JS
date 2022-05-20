@@ -1,0 +1,63 @@
+
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    div.counter-app{
+        background-color: rgb(58, 117, 189);
+        padding: 0.5em;
+        border-radius: 0.5em;
+        width: 300px;
+        height: 160px;
+    }
+    div.counter{
+        border-bottom: 1px solid white;
+        height: 50%;
+    }
+    div.buttons{
+        border-top: solid 1px white;
+        height: 50%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        
+    }
+    h1,p{
+        color: white;
+        font-family: sans-serif;
+        text-align-last: center;
+        
+    }
+    h1{
+        font-size: 1em;
+        margin-bottom: 1em;
+    }
+    p{
+        font-size: 2.5em;
+        
+        
+    }
+    button{
+        width: 30%;
+        height: 40%;
+        border: none;
+    }
+    button:hover{
+        opacity: 0.8;
+        cursor: pointer;
+    }
+
+    button{
+        background-color: white ;
+        width: 50%;
+    }
+  
