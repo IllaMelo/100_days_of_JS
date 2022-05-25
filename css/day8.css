@@ -81,6 +81,9 @@ div.form button{
 div.form button:hover{
     opacity: 0.5;
 }
+div.form button:focus{
+    background-color: aliceblue;
+}
 div.link{
     position: relative;
     width: 100%;
@@ -109,4 +112,10 @@ h1, h2, p{
 }
 h1:nth-of-type(1){
     font-size: 2em;
+}
+div.off{
+    display: none;
+}
+li.on{
+    background-color:brown;
 }
